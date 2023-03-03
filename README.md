@@ -1,5 +1,13 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KarajuSs&theme=dark&border_radius=6.5&locale=pl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<h5>Profile:</h5>
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=karajuss&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karajuss&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <br/>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=karajuss&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
+<h5>PolanieOnLine Project:</h5> (https://github.com/PolanieOnLine)
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polanieonline&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 
 <!--
 **KarajuSs/KarajuSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
